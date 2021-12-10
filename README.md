@@ -3,6 +3,7 @@ Collecttion of the CAD projects I have made on Fusion 360
 
 This repository is a collection of CAD models showcasing my abilities in Fusion 360 , a 3D designing software . 
 
+Here is an image showing the pictures of all the CAD models I made, please see this :  
 ![image](https://user-images.githubusercontent.com/86561124/145554343-175d30a9-7e04-42c3-9b20-67cf24e81f81.png)
 
 
